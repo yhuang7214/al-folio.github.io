@@ -5,7 +5,7 @@ description: a C++ socket project deployed on AWS
 img: assets/img/1/1-network.png
 importance: 50
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 [code link](https://github.com/ngcxy/Network-Socket-Programming)
@@ -49,6 +49,9 @@ After all the implementations are completed, clients can now access from outside
 
 Here's a demo for the application.
 
-<iframe width="780" height="400" src="../../../assets/img/1/1-demo.MP4" frameborder="0" allowfullscreen></iframe>
+<video width="780" height="400" controls>
+    <source src="../../assets/img/1/1-demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 Backup for the demo is on [YouTube](https://youtu.be/E1aWdYwHuns)
