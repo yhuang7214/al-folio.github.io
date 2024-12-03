@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Cloud Course Registration System
+date: 2023-05-01
 description: a C++ socket project deployed on AWS
 img: assets/img/1/1-network.png
-importance: 50
-category: work
+# importance: 10
+# category: work
 giscus_comments: false
 ---
 
-[code link](https://github.com/ngcxy/Network-Socket-Programming)
+[code link](https://github.com/yhuang7214/Network-Socket-Programming_ee450_22fall)
 
 Web registration system is the crucial place for students to plan their future courses. 
 When registration for a new semester begins, hundreds of students will flood into the registration website. 
@@ -54,4 +55,4 @@ Here's a demo for the application.
     Your browser does not support the video tag.
 </video>
 
-Backup for the demo is on [YouTube](https://youtu.be/E1aWdYwHuns)
+Backup for the demo is on [YouTube](https://youtu.be/7hTt6n07NLU)
