@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Event Finder App & Website
-date: 2023-12-01
+date: 2023-05-01
 description: a full-stack project for searching daily events
 img: assets/img/2/2-cover.png
 # importance: 20

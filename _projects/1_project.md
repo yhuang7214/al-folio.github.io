@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cloud Course Registration System
-date: 2023-05-01
+date: 2022-12-01
 description: a C++ socket project deployed on AWS
 img: assets/img/1/1-network.png
 # importance: 10
